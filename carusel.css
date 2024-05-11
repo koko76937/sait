@@ -1,0 +1,13 @@
+.slick-slider {
+    display: flex !important;
+    align-items: center;
+    gap: 3%;
+}
+.carousel__item {
+    display: flex !important;
+    flex-direction: column;
+    margin-right: 20px;
+}
+img{
+    width: 400px;
+}
